@@ -23,7 +23,7 @@ export default function ContactUsForm() {
     e.preventDefault();
 
     emailjs
-      .send('sri_innovation_services', 'template_86q4t2t', formData, {
+      .send('sri_technology_services', 'template_myd5lnq', formData, {
         publicKey: '3iThAWN01atwQeLtk',
       })
       .then(

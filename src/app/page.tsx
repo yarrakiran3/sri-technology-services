@@ -22,7 +22,7 @@ export default function Home() {
         </strong>
         <strong>
           <h1 className="font-bold text-blue-600 text-2xl md:text-5xl hover:font-normal  ">
-          Sri Innovation Services Inc
+          Sri Technology Services Inc
               <span className="text-amber-600	">.</span>
               
                 </h1></strong>

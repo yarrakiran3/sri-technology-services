@@ -52,7 +52,7 @@ export default function NavLinks({isLinkClicked,setIsLinkClicked,setButtonIsClic
                         
                         `,
                     {
-                        "bg-gray-100 dark:bg-gray-700 md:bg-gray-100 md:dark:bg-gray-700 text-blue-500  dark:text-blue-500  md:text-blue-500  md:dark:text-blue-500" : pathname==link.href
+                        "bg-gray border-gray-200 dark:bg-gray-900  text-blue-500  dark:text-blue-500  md:text-blue-500  md:dark:text-blue-500" : pathname==link.href
                     }
                 )}>
                             

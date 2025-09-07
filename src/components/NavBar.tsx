@@ -15,7 +15,7 @@ export default function NavBar(){
         <>
        
 
-<nav className="fixed w-full bg-gray border-gray-200 dark:bg-gray-900 z-40">
+<nav className="fixed w-full bg-white  dark:bg-gray-900 z-40">
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-5">
     <Link href={"/"} className="flex items-center space-x-3 rtl:space-x-reverse">
     <Image
@@ -23,7 +23,7 @@ export default function NavBar(){
             width={55}
             height={100}
             className=" h-fit hidden md:block"
-            alt="Sri Innovation Services logo">
+            alt="Sri Technology Services logo">
 
     </Image>
     <Image
@@ -31,12 +31,12 @@ export default function NavBar(){
             width={50}
             height={100}
             className=" h-fit block md:hidden"
-            alt="Sri Innovation Services logo">
+            alt="Sri Technology Services logo">
 
     </Image>
         
     <span className="self-center text-2xl mt-2 md:text-4xl font-bold whitespace-nowrap text-blue-600 dark:text-blue-600 ">
-        Sri Innovation Services
+        Sri Technology Services
         </span>
     </Link>
 
@@ -46,7 +46,7 @@ export default function NavBar(){
     </button>
     
     <div className="hidden w-full md:block md:w-auto" >
-      <ul className=" flex flex-col p-4 md:p-4    bg-white md:bg-white dark:bg-gray-900 md:dark:bg-gray-900 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0  dark:border-gray-700">
+      <ul className=" flex flex-col p-4 md:p-4    md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0  dark:border-gray-700">
       <NavLinks isLinkClicked={isLinkClicked} setIsLinkClicked={seIsLinkClicked} setButtonIsClicked={setButtonIsClicked}/>
       </ul>
     </div>

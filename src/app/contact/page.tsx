@@ -18,16 +18,16 @@ export default function Page(){
                     <br></br>
                     
 
-                    Email: <a href="mailto:contact@sriinnovasationsservices.com" className="text-blue-500 hover:underline">contact@sriinnovasationsservices.com</a>
+                    Email: <a href="mailto:info@sritechnologyservices.com" className="text-blue-500 hover:underline">info@sritechnologyservices.com</a>
                     <br></br>
                     <br></br>
                     
-                    Phone: <a href="tel:+1-609-480-6251" className="text-blue-500 hover:underline">+1-609-480-6251</a>
+                    Phone: <a href="tel:+1-732-339-8832" className="text-blue-500 hover:underline">+1-732-339-8832</a>
                     
                     <br></br>
                     <br></br>
                 
-                    Location : 21 Torbet Rd, Hillsborough, NJ 08844.
+                    Location : 390 Amwell Rd, Bldg 3, Ste#315, Hillsborough, NJ 08844.
                     <br></br>
                     <br></br>
                 </div>

@@ -12,7 +12,7 @@ export default function Page(){
         <div className="text-center  m-auto w-full   md:text-4xl md:mt-6">
             <div className="flex flex-col md:flex md:flex-row">
                 <div className="mt-16 md:w-1/2">
-                        Join our dynamic team and be a part of a company that values innovation, teamwork, and professional growth. We offer competitive benefits and a supportive work environment. 
+                        Join our dynamic team and be a part of a company that values Technology, teamwork, and professional growth. We offer competitive benefits and a supportive work environment. 
                         
                 </div>
                          
@@ -75,12 +75,12 @@ export default function Page(){
                 
                 <br></br>
                 Submit your resume and portfolio to 
-                <a href="mailto:hr@sriinnovasationsservices.com" className="hover:underline text-blue-500"> hr@sriinnovasationsservices.com 
+                <a href="mailto:info@sritechnologyservices.com" className="hover:underline text-blue-500"> info@sritechnologyservices.com 
                 </a>
                 <br></br>
                 and let your journey with 
                 <br></br>
-                <span className="text-teal-500">Sri Innovation Services Inc.</span> begin.
+                <span className="text-teal-500">Sri Technology Services Inc.</span> begin.
                 </div>
         </div>
         )
