@@ -75,12 +75,12 @@ export default function Page(){
                 
                 <br></br>
                 Submit your resume and portfolio to 
-                <a href="mailto:info@sritechnologyservices.com" className="hover:underline text-blue-500"> info@sritechnologyservices.com 
+                <a href="mailto:hr@sitaipl.com" className="hover:underline text-blue-500"> hr@sitaipl.com 
                 </a>
                 <br></br>
                 and let your journey with 
                 <br></br>
-                <span className="text-teal-500">Sri Technology Services Inc.</span> begin.
+                <span className="text-teal-500">SITA IPL</span> begin.
                 </div>
         </div>
         )

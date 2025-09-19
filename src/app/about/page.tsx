@@ -8,7 +8,7 @@ export default function Page(){
 
 <div className="text-center  m-auto  mt-12 md:text-3xl md:mt-36">
 
-    <span className="text-blue-600">Sri Technology Services Inc.</span> was founded with a vision to <span className="text-orange-600">transform the IT landscape </span> through Technology and dedication. 
+    <span className="text-blue-600">SITA IPL</span> was founded with a vision to <span className="text-orange-600">transform the IT landscape </span> through Technology and dedication. 
     Our mission is to provide exceptional services that drive success for our clients. 
     We believe in fostering a culture of 
     <span className="text-blue-600"> excellence, integrity, and continuous improvement.</span>
@@ -19,7 +19,7 @@ export default function Page(){
 
 
 <div className="text-center  m-auto mt-12   md:text-3xl md:mt-8">
-    {/* Meet the faces behind Sri Technology Services Inc., 
+    {/* Meet the faces behind SITA IPL -, 
     <span className="text-pink-400">a diverse team </span>of skilled professionals dedicated 
     to delivering exceptional results for our clients.
     <br></br>

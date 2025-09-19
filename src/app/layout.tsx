@@ -8,8 +8,8 @@ const inter = Poppins( {weight:['400'], subsets:["latin"] });
 
 
 export const metadata: Metadata = {
-  title: "Sri Technology Services Inc.",
-  description: "Official Website of Sri Technology Services Inc.",
+  title: "SITA IPL",
+  description: "Official Website of SITA IPL",
 };
 
 export default function RootLayout({

@@ -19,7 +19,7 @@ export default function Page(){
             
             <strong>
           <h1 className="font-bold text-blue-600 text-xl md:text-5xl hover:font-normal  ">
-          Sri Technology Services Inc.
+          SITA IPL
               </h1>
               </strong>
                is your trusted partner in technology and staffing solutions. 

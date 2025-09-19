@@ -18,16 +18,16 @@ export default function Page(){
                     <br></br>
                     
 
-                    Email: <a href="mailto:info@sritechnologyservices.com" className="text-blue-500 hover:underline">info@sritechnologyservices.com</a>
+                    Email: <a href="mailto:admin@sitaipl.com" className="text-blue-500 hover:underline">admin@sitaipl.com</a>
                     <br></br>
                     <br></br>
                     
-                    Phone: <a href="tel:+1-732-339-8832" className="text-blue-500 hover:underline">+1-732-339-8832</a>
+                    Phone: <a href="tel:+91-798-172-5001" className="text-blue-500 hover:underline">+91-798-172-5001</a>
                     
                     <br></br>
                     <br></br>
                 
-                    Location : 390 Amwell Rd, Bldg 3, Ste#315, Hillsborough, NJ 08844.
+                    Location : 23-39-26/4 Municipal Corporation Revenue Ward 44, Vijayawada, Andhra Pradesh.
                     <br></br>
                     <br></br>
                 </div>

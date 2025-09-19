@@ -19,24 +19,24 @@ export default function NavBar(){
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-5">
     <Link href={"/"} className="flex items-center space-x-3 rtl:space-x-reverse">
     <Image
-            src={'/sisi_logo.png'}
+            src={'/sita.jpg'}
             width={55}
             height={100}
             className=" h-fit hidden md:block"
-            alt="Sri Technology Services logo">
+            alt="SITA IPL">
 
     </Image>
     <Image
-            src={'/sisi_logo.png'}
+            src={'/sita.jpg'}
             width={50}
             height={100}
             className=" h-fit block md:hidden"
-            alt="Sri Technology Services logo">
+            alt="SITA IPL">
 
     </Image>
         
     <span className="self-center text-2xl mt-2 md:text-4xl font-bold whitespace-nowrap text-blue-600 dark:text-blue-600 ">
-        Sri Technology Services
+        SITA IPL
         </span>
     </Link>
 
