@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-              <link rel="icon" href="/favicon.png"></link>
+              <link rel="icon" href="/sita.jpg"></link>
       </head>
       <body className={`${inter.className} antialiased `}>
       <div className="flex v-screen overflow-auto  flex-col md:flex-col ">

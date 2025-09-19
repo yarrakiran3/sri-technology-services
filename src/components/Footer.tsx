@@ -12,11 +12,11 @@ export default function footer() {
           <div className="mb-6 md:mb-0">
               <Link href={"/"} className="flex items-center">
                   <Image 
-                  src={'/sisi_logo.png'} 
+                  src={'/sita.jpg'} 
                   className="h-8 me-3" 
                   width={30}
                   height={80} 
-                  alt="Sri Technology Services Logo" />
+                  alt=" SITA IPL" />
                   <span className="self-center text-2xl text-blue-600 font-semibold whitespace-nowrap dark:text-white">SITA IPL</span>
               </Link>
           </div>
